@@ -1,0 +1,11 @@
+F:\seesharp\taxi\bin\Debug\netcoreapp2.2\taxi.deps.json
+F:\seesharp\taxi\bin\Debug\netcoreapp2.2\taxi.runtimeconfig.json
+F:\seesharp\taxi\bin\Debug\netcoreapp2.2\taxi.runtimeconfig.dev.json
+F:\seesharp\taxi\bin\Debug\netcoreapp2.2\taxi.dll
+F:\seesharp\taxi\bin\Debug\netcoreapp2.2\taxi.pdb
+F:\seesharp\taxi\obj\Debug\netcoreapp2.2\taxi.csprojAssemblyReference.cache
+F:\seesharp\taxi\obj\Debug\netcoreapp2.2\taxi.csproj.CoreCompileInputs.cache
+F:\seesharp\taxi\obj\Debug\netcoreapp2.2\taxi.AssemblyInfoInputs.cache
+F:\seesharp\taxi\obj\Debug\netcoreapp2.2\taxi.AssemblyInfo.cs
+F:\seesharp\taxi\obj\Debug\netcoreapp2.2\taxi.dll
+F:\seesharp\taxi\obj\Debug\netcoreapp2.2\taxi.pdb
